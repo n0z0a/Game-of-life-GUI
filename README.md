@@ -22,7 +22,7 @@ The user can interact with the GUI by clicking on cells to set the initial state
 ## Usage
 1. Run the script:
    ```bash
-   python game_of_life_gui.py
+   python game.py
    
 ## Future Work
 - **Optimization**: Explore opportunities for optimizing the GUI to enhance performance and achieve faster results.
