@@ -10,6 +10,10 @@ This Python project features a graphical user interface (GUI) for playing Conway
 
 The user can interact with the GUI by clicking on cells to set the initial state and then starting the simulation to observe the evolution of generations.
 
+## Creator
+
+- **Noah Ibarra**
+
 ## Features
 - **User Interaction**: Click on cells to set the initial live cells.
 - **Simulation**: Press the "Start" button to simulate the game and observe the generations.
